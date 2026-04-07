@@ -1,4 +1,6 @@
-![Header](https://i.ytimg.com/vi/CVUKu63I71s/maxresdefault.jpg)
+<p align="center">
+  <img src="https://i.ytimg.com/vi/CVUKu63I71s/maxresdefault.jpg" width="85%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Madhur</h1>
 <h3 align="center">A passionate developer from India</h3>
