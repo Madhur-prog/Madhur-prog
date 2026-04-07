@@ -1,4 +1,4 @@
-https://theprimeview.com/wp-content/uploads/2024/02/Mixed-languages.jpg
+![Header Image](https://theprimeview.com/wp-content/uploads/2024/02/Mixed-languages.jpg)
 <h1 align="center">Hi 👋, I'm Madhur</h1>
 <h3 align="center">A passionate developer from India</h3>
 
