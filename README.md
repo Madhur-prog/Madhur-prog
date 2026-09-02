@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Madhur-prog/Madhur-prog/main/png/image.png" width="100%">
+  <img src="https://jmdtutor.com/blog/wp-content/uploads/2021/05/computer-programming.jpg" width="600"/>
 </p>
 
 <p align="center">
