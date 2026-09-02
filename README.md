@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./png/image.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Madhur-prog/Madhur-prog/main/image.png" width="100%">
 </p>
 
 <p align="center">
