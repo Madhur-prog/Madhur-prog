@@ -2,10 +2,16 @@
   <img src="https://jmdtutor.com/blog/wp-content/uploads/2021/05/computer-programming.jpg" width="600"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Madhur</h1>
+<p align="center">
+  <img src="https://jmdtutor.com/blog/wp-content/uploads/2021/05/computer-programming.jpg" width="600"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Madhur" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;Learning+Artificial+Intelligence;Machine+Learning+Enthusiast;Open+Source+Contributor" />
 </p>
 
 <h3 align="center">A passionate developer from India</h3>
