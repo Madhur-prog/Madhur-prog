@@ -23,7 +23,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/madhur-bharambe" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45"/>
-</a><a href="https://www.leetcode.com/madhur_27" target="_blank">
+</a><a href="https://leetcode.com/u/Madhur__27" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45"/>
 </a>
 </p>
