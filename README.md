@@ -7,14 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Learning+Artificial+Intelligence;Machine+Learning+Enthusiast;problem+solving />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Learning+Artificial+Intelligence;Machine+Learning+Enthusiast" />
 </p>
 
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madhur-prog&label=Profile%20views&color=0e75b6&style=flat" alt="madhur-prog" />
-</p>
 
 ---
 
